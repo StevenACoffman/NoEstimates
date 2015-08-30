@@ -1,0 +1,108 @@
+Business want to know:
+How many features can you get done?
+When will features be in production?
+
+Estimates are harmful. They become commitments to time and scope. People rush or 
+
+Traditional Metrics
+-Lines of Code
+-ROI
+-Estimates vs. Actuals in Hours
+-Utilization
+
+Agile Metrics:
+- Test Coverage
+- Velocity
+- Estimates vs. Actuals in Story Points
+
+#NoEstimates Metrics
+
+Lead Time = Average Time From Backlog to Done
+Cycle Time = Average Time From Started to Done
+Wait\Queue Time = Lead Time - Cycle Time
+Story Counting
+
+cycle time = average time from requirements to accepted (i.e. inverse of throughput)
+Little's Law: Lead Time = Work In Progress / Throughput
+Throughput (TP): average number of items completed in some specific span of time.
+    Lead Time = Cycle Time * WIP
+    Or,
+    Lead Time = WIP/Throughput
+
+Started->Done = Cycle Time
+
+"scope" (quality), "time", and "cost"
+
+Fix the time + cost, vary the scope (MVP).
+
+NoEstimates:
+Embrace Agile Principles
+Focus on Value
+Deliver Small Slices
+Delivery Early & Frequently
+Customer Collaboration
+
+Ethics
+Empiricism
+Emergence
+
+Estimates drive Cycle of Mistrust
+1. Deliver the wrong thing, or Late 
+2. Focus on Schedule
+3. Commitments of scope and time
+4. Trust Breakdown
+
+
+Virtuous Cycle
+1. Continuous Delivery
+2. Focus on Highest Value
+3. Thin Slicing
+4. Provide transparency with simple, empirical metrics.
+
+Estimates become committments of both scope and time
+Trust breaks down when wrong thing is delivered and/or delivery is late
+Focusing on the schedule rather than build the right thing (customer value) increase chances of this happening
+
+#NoEstimates helps focus on delivering highest value first, sliced as thinly as possible.
+Focus on doing the most valuable thing next.
+Slice as thinly as possible while still delivering value.
+Deliver value continuously. 
+Slice as thin as possible. Minimal Viable 
+Minimal Marketable Feature
+
+
+Agile Software Engineering With No Estimates
+
+Why do agile teams estimate user stories (features and bugs)?
+Management wants to make decisions about whether and when to deliver stories based on how long things will take and how much it will cost. 
+They want to be able to communicate to customers and interested parties what to expect and when to expect it. They want customers to trust that their needs are being met in a timely fashion.
+
+Even perfectly accurate estimates do not change how valuable a story is. 
+Repeatedly deciding to defer very valuable but expensive stories in favor of cheap, nice-to-have stories will not instill a sense of trust in the customer. 
+Knowing the costs of user stories distracts management from remaining focused on meeting the most important needs as quickly as possible. 
+On top of that, estimates are always wrong. Sometimes wildly so. Why make bad decisions based on worse data?
+
+It turns out that deliberately avoiding estimating helps teams focus on delivering the most valuable business needs, in the smallest, most incremental way. 
+Without story estimates you can provide transparency into the progress by using story counts and cycle/lead times to show wait times in the queue/backlog without having to estimate anything. 
+These metrics are simple and empirical. By writing like-sized and independent stories, teams can provide much of the visibility that estimates are supposed to deliver.
+
+#NoEstimates focuses on the following questions:
+What does the business need most to be delivered? What user story (feature or bug fix) delivers the most business value?
+What is the smallest, most incremental way that value can be delivered? Can that user story be split into smaller pieces that still each deliver value?
+Are we doing the most important thing first, and doing that in the smallest, most incremental way that still delivers value.
+
+At the story level, estimates are wasteful and harmful. What about at the project or organizational level?
+If estimates at this level are still desirable, forecasting a project can be done by looking at the cycle time multiplied by the expected number of stories.
+
+Alternatively, an organization can dispense with project estimates. If the time and resources are allocated according to the priorities of the organization, then estimates are not necessary for governance.
+A particular mission is 25% of an organization, and deserves 25% of the resources. How much value does support deliver in proportion to the value of new development? 
+
+If the organization decided that 5 people is an optimal development team size, and 12 months for a new project is MVP, 18 months until Transition to Operations. 
+Resources cannot be divided beyond this point, so they take turns. If you only have one team, but 4 missions, the Team will cycle between missions on each project. 
+
+Again, the organization can provide transparency with project cycle/lead times to show wait times in the project queue/backlog.
+
+
+
+
+Read more at http://www.brainyquote.com/quotes/keywords/promise.html#bDuFJFEaVXEqVPzM.99
